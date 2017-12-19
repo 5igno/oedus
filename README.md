@@ -7,7 +7,7 @@ The characterization setup and methodology includes:
 - the desing of the strain substrate and of the electrical connectors;
 - the software for data acquisition;
 
-A thorough description of these setup is described in a peer reviewd paper, submitted in Review of Scientific Instruments (under review, like provided asap): blue prints of the bending mechanics and of the mechanical connectors are described as detailed in the paper as possible, compatibly with IBM procedures.
+A thorough description of these setup is described in a peer reviewed paper in Review of Scientific Instruments ([RSI link](http://aip.scitation.org/doi/full/10.1063/1.4983573), [arXiv link](https://arxiv.org/ftp/arxiv/papers/1704/1704.01394.pdf)). Blue prints of the bending mechanics and of the electrical connectors are described in detail in the paper.
 
 
 
